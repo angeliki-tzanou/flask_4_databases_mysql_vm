@@ -9,3 +9,7 @@
 - Before deploying the VM the option of enabling auto-shutdown is provided in which we can choose the best time for the VM to shutdown based on its utilization (in this case it was set for 11:59pm)
 - Lastly, when we are satisfied with the overview of the information that was used to create the VM we ca de[ploy the VM instance
 - Deployment could take a couple of minutes to complete.
+- Then we can go to resource groups and find our deployed VM instance and search for its characteristics
+  - Ex: IP address, activity log/status, the username of the VM to be used for purposes such as connecting in SQLworkbench etc.
+  - In this case, before proceeding we ensured that our destination port ranges under the inbound security rule, was set to 3306 to connect openly to our workbench
+  - Additionally, under the "Firewall" section we also had to add another inbound traffic to 3306
