@@ -7,5 +7,5 @@
 - A username and password authentication system was also integrated and created
 - In the inbound port rules all options were checked which included HTTP, HTTPS, SSH
 - Before deploying the VM the option of enabling auto-shutdown is provided in which we can choose the best time for the VM to shutdown based on its utilization (in this case it was set for 11:59pm)
-- Lastly when we are satisfied with the overview of the information that was used to create the VM we ca de[ploy the VM instance
-- 
+- Lastly, when we are satisfied with the overview of the information that was used to create the VM we ca de[ploy the VM instance
+- Deployment could take a couple of minutes to complete.
