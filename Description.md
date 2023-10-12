@@ -20,3 +20,11 @@
 Below is the screenshot of the GCP VM deployed:
 
 <img width="1000" alt="Screenshot 2023-10-11 at 11 36 51 PM" src="https://github.com/angeliki-tzanou/flask_4_databases_mysql_vm/assets/141374140/2a2b9c81-0bd6-4f02-a282-06fa222743b8">
+
+
+### Then going into Google Shell followed the commands below:
+1. First ensure that our UBUNTU server is up to date by using the command ```sudo apt-get update``` to update it
+2. ```sudo apt install mysql-server mysql-client``` in order to install MYSQL into google shell
+3. In order to log into the SQL account used ```sudo mysql```
+4. At this point, created a new user by using the command ```CREATE USER 'ang2'@'%' IDENTIFIED BY ‘yourPassword’;```
+5. 
