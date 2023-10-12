@@ -30,6 +30,12 @@ Below is the screenshot of the GCP VM deployed:
 
 <img width="934" alt="Screenshot 2023-10-11 at 11 52 45 PM" src="https://github.com/angeliki-tzanou/flask_4_databases_mysql_vm/assets/141374140/67e8d881-35e0-429d-9a2d-18e9a65b611b">
 
+- Ensured in google shell that access was granted to the new user and then proceeded:
+<img width="1000" alt="successful login1" src="https://github.com/angeliki-tzanou/flask_4_databases_mysql_vm/assets/141374140/0a032884-b120-4e9a-9d05-a7c859ae84c0">
+
+<img width="1000" alt="successful login" src="https://github.com/angeliki-tzanou/flask_4_databases_mysql_vm/assets/141374140/12104304-6e2b-4347-8327-2f1331bc2f76">
+
+
 5. After successfully linking with my SQL workbench I went ahead and created a database:
 
 <img width="1190" alt="db creation" src="https://github.com/angeliki-tzanou/flask_4_databases_mysql_vm/assets/141374140/6ca68f9b-2a43-4e99-a797-b6edb90aebf8">
@@ -37,7 +43,6 @@ Below is the screenshot of the GCP VM deployed:
 6. Then inside that database that I created went ahead and created the two tables:
 
 <img width="1186" alt="table content" src="https://github.com/angeliki-tzanou/flask_4_databases_mysql_vm/assets/141374140/d0e5bd23-3139-4ee4-b948-9f13fa957027">
-
 
 
 
