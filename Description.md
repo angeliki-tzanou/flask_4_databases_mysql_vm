@@ -45,7 +45,14 @@ Below is the screenshot of the GCP VM deployed:
 <img width="1186" alt="table content" src="https://github.com/angeliki-tzanou/flask_4_databases_mysql_vm/assets/141374140/d0e5bd23-3139-4ee4-b948-9f13fa957027">
 
 ## ERRORS encountered:
+- Some errors that occurred while attempting to integrate the flask app are shown below:
+<img width="1000" alt="Screenshot 2023-10-11 at 11 11 07 PM" src="https://github.com/angeliki-tzanou/flask_4_databases_mysql_vm/assets/141374140/bb624d57-7fa5-4bb7-8920-ad0081bfe694">
+
+<img width="810" alt="Screenshot 2023-10-11 at 11 10 10 PM" src="https://github.com/angeliki-tzanou/flask_4_databases_mysql_vm/assets/141374140/09a58306-3a23-4e85-824f-a90bb111deea">
+
 - 
+
+
 
 
 
