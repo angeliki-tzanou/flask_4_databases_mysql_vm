@@ -12,6 +12,8 @@
 - Then we can go to resource groups and find our deployed VM instance and search for its characteristics
   - Ex: IP address, activity log/status, the username of the VM to be used for purposes such as connecting in SQLworkbench etc.
   - In this case, before proceeding we ensured that our destination port ranges under the inbound security rule, was set to 3306 to connect openly to our workbench
+ 
+<img width="1062" alt="Screenshot 2023-10-11 at 11 39 26 PM" src="https://github.com/angeliki-tzanou/flask_4_databases_mysql_vm/assets/141374140/5c033a63-8c14-46a0-932d-1dbc1cc839b8">
     
 ***Similar steps and the same information were imported within the GCP platform to create a VM on there as well***
 
