@@ -14,3 +14,7 @@
   - In this case, before proceeding we ensured that our destination port ranges under the inbound security rule, was set to 3306 to connect openly to our workbench
     
 ***Similar steps and the same information were imported within the GCP platform to create a VM on there as well***
+
+Below is the screenshot of the GCP VM deployed:
+
+<img width="1000" alt="Screenshot 2023-10-11 at 11 36 51 PM" src="https://github.com/angeliki-tzanou/flask_4_databases_mysql_vm/assets/141374140/2a2b9c81-0bd6-4f02-a282-06fa222743b8">
