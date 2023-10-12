@@ -44,5 +44,8 @@ Below is the screenshot of the GCP VM deployed:
 
 <img width="1186" alt="table content" src="https://github.com/angeliki-tzanou/flask_4_databases_mysql_vm/assets/141374140/d0e5bd23-3139-4ee4-b948-9f13fa957027">
 
+## ERRORS encountered:
+- 
+
 
 
