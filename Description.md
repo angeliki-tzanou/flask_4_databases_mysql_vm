@@ -50,7 +50,7 @@ Below is the screenshot of the GCP VM deployed:
 
 <img width="810" alt="Screenshot 2023-10-11 at 11 10 10 PM" src="https://github.com/angeliki-tzanou/flask_4_databases_mysql_vm/assets/141374140/09a58306-3a23-4e85-824f-a90bb111deea">
 
-- 
+- After updating the requirements txt file and pip installing all the packages the error messages still persisted. 
 
 
 
